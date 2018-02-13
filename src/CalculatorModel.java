@@ -25,7 +25,7 @@ public  static double multTwoNumbers(double firstNumber, double secondNumber){
    return  calculationValue;
 
 }
-public  static int divTwoNumbers(int firstNumber, int secondNumber){
+public  static double divTwoNumbers(double firstNumber, double secondNumber){
 
    // calculationValue = firstNumber/secondNumber;
  //   return calculationValue;
